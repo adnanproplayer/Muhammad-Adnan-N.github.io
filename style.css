@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    background-size: cover;
+    background-image: url(Apple-iPhone-15-Pro-lineup-hero-230912_Full-Bleed-Image.jpg.large_.jpg);
+}
+
+.navbar .logo img{
+        height: 22px;
+}
+
+.navbar .shopping img{
+    height: 22px;
+    margin-left: 20px;
+}
+
+.navbar{
+    background:black;
+    justify-content: center;
+    padding-top: 10px;
+    display: flex;
+}
+
+.navbar ul{
+    display: flex;
+    list-style: none;
+}
+
+.navbar ul li a{
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: white;
+}
+
+.title{
+    padding-top: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.text{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.link{
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:blue;
+}
