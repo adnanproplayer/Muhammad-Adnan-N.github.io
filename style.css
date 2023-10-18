@@ -8,6 +8,7 @@ body{
     background-color: black;
     background-size: cover;
     background-image: url(Apple-iPhone-15-Pro-lineup-hero-230912_Full-Bleed-Image.jpg.large_.jpg);
+    background-repeat: no-repeat;
 }
 
 .navbar .logo img{
